@@ -1,0 +1,32 @@
+﻿  Bingo.c
+  Controls.c
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(39): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(110): warning C4013: 'get_exit_menu' undefined; assuming extern returning int
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\controls.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Functions.c
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(32): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(33): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(173): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(227): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(263): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(271): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(288): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kentkim84\desktop\workspace\c\bingo\bingo\functions.c(306): warning C4101: 'count': unreferenced local variable
+  Generating Code...
+  Bingo.vcxproj -> C:\Users\kentkim84\Desktop\Workspace\C\Bingo\x64\Debug\Bingo.exe
+  Bingo.vcxproj -> C:\Users\kentkim84\Desktop\Workspace\C\Bingo\x64\Debug\Bingo.pdb (Full PDB)
